@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 '''
-hello.py - Example file system for pyfuse3.
+hell.py - Example file system for pyfuse3.
 
 This program presents a static file system containing a single file.
 
