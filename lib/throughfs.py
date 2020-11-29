@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''
-passthroughfs.py - Example file system for pyfuse3
+throughfs.py - Example file system for pyfuse3
 
 This file system mirrors the contents of a specified directory tree.
 
