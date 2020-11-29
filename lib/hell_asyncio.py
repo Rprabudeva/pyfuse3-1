@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 '''
-hello_asyncio.py - Example file system for pyfuse3 using asyncio.
+hellasyncio.py - Example file system for pyfuse3 using asyncio.
 
 This program presents a static file system containing a single file.
 
