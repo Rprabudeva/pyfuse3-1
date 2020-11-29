@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 '''
-tmpfs.py - Example file system for pyfuse3.
+pfs.py - Example file system for pyfuse3.
 
 This file system stores all data in memory.
 
